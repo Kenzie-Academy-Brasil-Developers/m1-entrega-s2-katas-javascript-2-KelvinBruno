@@ -1,0 +1,7 @@
+"a =5",,,,
+,i!=a,"expo = multiply(expo,i)",i++,return expo
+,true,"5= multiply (5,1)",1+1,?
+,true,"5= multiply (5,2)",2+1,?
+,true,"10= multiply (10,3)",3+1,?
+,true,"30= multiply (30,4)",4+1,?
+,false,?,?,120
