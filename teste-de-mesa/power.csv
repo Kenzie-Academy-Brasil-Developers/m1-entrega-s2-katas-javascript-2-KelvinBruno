@@ -1,0 +1,6 @@
+" x,n = 3,4",,,,
+,i!n=n,"expo = multiply(expo,x)",i++,return expo
+,true,"3= multiply (3,3)",1+1,?
+,true,"9= multiply (9,3)",2+1,?
+,true,"27= multiply (27,3)",3+1,?
+,false,?,?,81

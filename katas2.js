@@ -30,7 +30,7 @@ function power(x,n){
     expo = multiply(expo,x)
      i++;
     }
-    return "A potenciação é " + expo +" que confere com o valor de " + Math.pow(x,n);
+    return  expo;
     
   }
 
