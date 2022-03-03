@@ -67,7 +67,7 @@ function factorial(a){
 function fibonacci(a){
     let fibo=[0,1]
     let j = 1;
-    for(i=0;i<=a;i++){
+    for(i=0;i<a;i++){
         fibo.push(add(fibo[i],fibo[j]))
         j++;
      }
